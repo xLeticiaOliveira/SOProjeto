@@ -1,3 +1,9 @@
+/*
+		PROJETO 1 - LOCALIZA MATRIZ	
+		      KOKONUT GROUP
+	Bruno do Valle, Juliana Marchi, Letícia Oliveira
+*/
+
 #include <stdio.h>     // scanf-printf
 #include <pthread.h>   // Threads
 #include <stdlib.h>   // Arquivo
