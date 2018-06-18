@@ -1,9 +1,10 @@
 # SOProjeto
+
 Repositorio do grupo Kokonut Group - Projeto 1 
 
 
 
-Clique no coco dançante para ver o vídeo :D 
+Clique no coco dançante para ver o vídeo de "Localiza na Matriz - Projeto 1" :D 
 
 
 
